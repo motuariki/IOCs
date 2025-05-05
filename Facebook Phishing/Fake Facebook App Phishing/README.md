@@ -8,7 +8,7 @@ Sometimes there’s an error on this page for ‘JSSDK unknown host domain The d
 
 This indicates that there is a mismatch between the calendly app on Facebook and the (fake) domain that is claiming to be authorised for accessing it. (only pre-approved domains can use their SDK for a specific app).
 I suspect they have made an app on Facebook and are connecting it to that, but in some cases forgot to whitelist their domain. I have extracted appIDs however Facebook doesn’t return any info if those apps are set to private which is possibly whats going on there.
-Eg. https://apps.facebook.com/application.php?id=256281040558
+Eg. https://apps.facebook.com/application[.]php?id=256281040558
 
 Likely goal:
 Control OAuth redirect URIs, SDK behaviour, and permissions.
