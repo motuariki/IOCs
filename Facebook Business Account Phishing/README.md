@@ -1,4 +1,4 @@
-## Facebook Business Account Phishing ##
+## Facebook Account Phishing ##
 
 This is a collection of IOCs and TTPs associated with Facebook Account phishing. These are small samples of a very large cluster of phishing landing pages targeting Facebook and Calendly users. The victim is presented with a Captcha, and once this is completed they are prompted to enter Facebook login credentials and/or personal details. The themes of the landing pages suggest social engineering is used on victims with hooks about facebook account recovery, rule infringements, and scheduled meetings with Calendly to get them to visit them.
 
