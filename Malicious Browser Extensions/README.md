@@ -1,2 +1,2 @@
 ## Malicious Browser Extensions
-This section covers malicious browser extentions and the domains spreading them
+This section covers malicious browser extensions and the domains spreading them
