@@ -1,0 +1,37 @@
+Original research by g0njxa:
+https://x.com/g0njxa/status/1982934216489984157?s=46&t=aOMVIlQ0BFF_wD_gVCYVUg
+
+Additional domains I have discovered based on the orginal research:
+
+'Cracked' software downloads spread via malvertising. Found via malvertising search results, shared ns combo, low host shared IPs, passive dns entry pivots:
+
+filescrack.com (they were also using this as an ns server for a time)
+softstech.click
+gurutech.click
+technologia.icu
+thokotech.cc
+alitech.click
+softtecinfo.com
+softshub.net
+get-downlaod-here.com
+softwarescr.info
+rupatch.com
+propcsofts.com
+pcsoftsfree.com
+lewdgamespc.com
+fullsetup.pro
+freeprosoftzs.info
+cr4ks.net
+cliclsoft.click
+allsoftscr.com
+abbaspcs.com
+shufurepo.com
+mymadowload.com
+ztotys.com
+frozendoome.com
+apple-pkgs.com
+
+'ransomware decryptor' domains that direct users to whatsapp channels to get scammed probably. (linked via passive dns record for get-downlaod-here.com > Historical ns entry > 2025-07-22 00:13:02 > 45.14.224.202 > ransomware decrypt domains:
+
+lockbitdecryptor.com
+akiradecryptor.com
